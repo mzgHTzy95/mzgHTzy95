@@ -16,7 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          theme: tokyonight
 
           # Core stats
           base: header, activity, community, repositories, metadata
