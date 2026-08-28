@@ -35,16 +35,16 @@
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/mzgHTzy95/mzgHTzy95/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/mzgHTzy95/mzgHTzy95/master/github-metrics.svg" /></p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzgHTzy95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzgHTzy95&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzgHTzy95&theme=tokyo-night&hide_border=true" />
-</div>
+</div> -->
 
 <br/>
 
