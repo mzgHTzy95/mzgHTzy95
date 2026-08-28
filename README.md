@@ -19,6 +19,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzgHTzy95&style=for-the-badge&color=2EA3F7" />
+</div>
+
 ---
 
   <p>
@@ -50,52 +54,44 @@
 
 ### 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 🏖️ rev-z-booking
+<sub>Latest project</sub>
 
-<h3 align="center">🏖️ rev-z-booking</h3>
-
-<p align="center">
 A full-featured reservation platform for a seaside resort — guests can browse rooms, book stays, and sign up for a lineup of activities, all through a clean, streamlined web experience.
-</p>
 
-<p align="center">
 <img src="https://img.shields.io/badge/TanStack%20Start-FF4154?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
 
-<p align="center">
-<a href="https://reve-z.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+**[🔗 Live Demo](https://reve-z.vercel.app)**
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<h3 align="center">📚 bactracky</h3>
+---
 
-<p align="center">
+<br/>
+
+#### 📚 bactracky
+<sub>Student productivity toolkit</sub>
+
 A productivity web app built for Tunisian baccalauréat students, helping them organize study time, track school life, and stay on top of exam prep with a purpose-built toolkit.
-</p>
 
-<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
 
-<p align="center">
-<a href="https://bactracky.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+**[🔗 Live Demo](https://bactracky.vercel.app)**
 
-</td>
-</tr>
-</table>
+<br/>
 
+---
+
+<br/>
+
+<p align="center"><i>More projects on the way — check out my <a href="https://github.com/mzgHTzy95?tab=repositories">pinned repos</a> below 👇</i></p>
 
 
 ### 🛠️ Tech Stack
 
-<table>
+<table border="0" width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -173,7 +169,3 @@ A productivity web app built for Tunisian baccalauréat students, helping them o
 - GitHub : [github.com/mzgHTzy95](https://github.com/mzgHTzy95)
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzgHTzy95&style=for-the-badge&color=2EA3F7" />
-</div>
